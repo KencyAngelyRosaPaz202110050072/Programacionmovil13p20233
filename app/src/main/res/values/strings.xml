@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Programacionmovil13p2023</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="edad">Ingrese su edad</string>
+    <string name="correo">Ingrese su correo</string>
+    <string name="Respuesta">Registro ingresado con exito</string>
+    <string name="ErrorResp">Error no se pudo registrar</string>
+
+</resources>
